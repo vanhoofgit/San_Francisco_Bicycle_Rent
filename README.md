@@ -36,7 +36,7 @@ For the presentation, I focus on :
 bicycle rentals are not the same. They tend to be very low in the morning and have their maximal frequency between 12 pm and 4 pm.</br>
 - User of type Subscriber and Customers (occasional rental) don't have the same daily rental frequency. The users of type Customer are the lowest on Mondays and gradually increase to a peak on Saturday. Then there is a drop from Saturday to Sunday and a sharper drop from Sunday to Monday. The rental by users of type 'Subscriber' are the highest on Tuesday and Wednesday and the lowest on Sunday.
  The weekend rentals come to an end at 4 am, while on weekdays, the activity starts between 4am
- and5am.Bothtypeofdayshaveatwohoursbreakbutthis breakistwohourslateron
- weekends.</br>
+ and5am.Both type of days have a two hours break but this break is two hours later on weekends.</br>
+ 
 - The different driving behavior of users of type Subscribers and Customers , especially on the shorter time frames of the duration of the trip (max half an hour). The link between duration and distance of the trip is stronger for the Subscriber. This means the Subscriber takes more a bicycle to drive from point A to B. The user of type Customer takes relatively more a bicycle to explore the neighborhood.
 
