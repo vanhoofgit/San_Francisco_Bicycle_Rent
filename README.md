@@ -4,13 +4,13 @@ The jupyter notebook tries to find patterns in the bicycle rentals in San Franci
 </br>
 **2) Libraries** </br>
 The following libraries need to be installed : </br>
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
-%matplotlib inline
-import seaborn as sb
-import glob
+import numpy as np </br>
+import pandas as pd </br>
+import matplotlib.pyplot as plt </br>
+import matplotlib.ticker as ticker </br>
+%matplotlib inline </br>
+import seaborn as sb </br>
+import glob </br>
 from math import radians, cos, sin, asin, sqrt</br>
 </br>
 
