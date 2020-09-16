@@ -2,7 +2,7 @@
 ![sf](https://user-images.githubusercontent.com/60714369/93361786-88d03600-f845-11ea-92cb-ab212e7e6974.jpg)
 
 **1) Motivation** </br>
-The jupyter notebook tries to find patterns in the bicycle rentals in San Francisco and present the findings with some matplotlib and seaborn charts.</br>
+This jupyter notebook tries to find patterns in the bicycle rentals in San Francisco and present the findings with some matplotlib and seaborn charts.</br>
 </br>
 **2) Libraries** </br>
 The following libraries need to be installed : </br>
